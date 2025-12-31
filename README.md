@@ -1,7 +1,7 @@
 # IT-governance-notes
 notes 
 
-DAY 1 (31-dec-25) : what IT governance actually is ?
+DAY 1 (30-dec-25) : what IT governance actually is ?
 
 ## what is IT governance??
  - IT governance is a framework of policies, processes, and structures that guide how an organization manages and uses its IT resources to meet business objectives. It ensures that technology decisions align with overall strategy, minimize risks, and maximize value.
