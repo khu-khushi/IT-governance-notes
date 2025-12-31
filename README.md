@@ -1,9 +1,9 @@
 # IT-governance-notes
 notes 
 
-DAY 1 (30-dec-25) : what IT governance actually is ?
+DAY 1 (30-dec-25) : what IT Governance actually is ?
 
-## what is IT governance??
+## what is IT Governance??
  - IT governance is a framework of policies, processes, and structures that guide how an organization manages and uses its IT resources to meet business objectives. It ensures that technology decisions align with overall strategy, minimize risks, and maximize value.
 
  ## why companies need it??
@@ -13,17 +13,37 @@ DAY 1 (30-dec-25) : what IT governance actually is ?
  - Financial Accountability : ensures resources are allocated to high-value projects
  - Improved Decision-Making : Establishes clear roles, responsibilities, and processes 
 
-
- ## difference between IT governance and IT management ??
+ ## difference between IT Governance and IT Management ??
  - IT governance basically focuses on 'why' and 'what'.
  eg: why these GRC policies should be followed and what would be the outcome and risk of it. 
 - IT management usually implies on the 'how' factor.
  eg: how do we deliver this service while alining with the audit.
 
-
- ## who uses IT governance??
+ ## who uses IT Governance??
  - Financial Services
  - Healthcare
  - Government Agencies
  - Large Enterprises
  - Education & Multinationals
+
+
+
+
+Day 2 (31-dec-25) : IT Governance vs IT Management.
+
+## IT Governance
+- Handles the framework of processes, policies, and structures.
+- Aligns IT goals with business goals and values, while managing risks and ensuring compliance.
+- Provides clarity, accountability, and control for smooth organizational functioning.
+- Mainly focuses on “why” and “what” needs to be done.
+
+## IT Management
+- Involves overseeing and administering an organization’s IT systems.
+- Includes standard management tasks like budgeting, staffing, cybersecurity, network planning, and operations.
+- Executes and manages the tasks and directions set by the IT governance team.
+- Mainly focuses on “how” things are implemented.
+
+## therefore,
+IT governance defines direction and control, while IT management ensures execution and operations.
+
+
