@@ -47,3 +47,23 @@ Day 2 (31-dec-25) : IT Governance vs IT Management.
 IT governance defines direction and control, while IT management ensures execution and operations.
 
 
+
+
+Day 3 (1-jan-25): why IT Governance exist??
+
+## Learn the problems first, then the framework.
+- IT Governance exists to address the problems that arise due to the absence of proper control and direction over IT systems.
+
+## Problems caused by the non-existence of IT Governance:
+- Data breaches due to weak security controls.
+- Compliance failures leading to legal and regulatory issues.
+- Wasted IT investments because of poor decision-making.
+- Shadow IT, where unauthorized systems are used without approval.
+- Lack of accountability, resulting in unclear responsibility for IT failures.
+
+## IT Governance exists to ensure that:
+- IT goals are aligned with business goals.
+- Compliance with laws and regulations, audits are passed, and policies are followed.
+- Protection against risks such as data breaches, system downtime, and legal penalties.
+
+
