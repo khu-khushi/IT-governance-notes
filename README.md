@@ -1,4 +1,4 @@
-# IT-governance-notes
+# IT-governance-notes #
 notes 
 
 DAY 1 (30-dec-25) : what IT Governance actually is ?
