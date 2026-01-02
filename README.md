@@ -104,4 +104,11 @@ People who influence, decide, or are affected by IT decisions.
 -> Ensure no shortcuts, no violations
 -> Provide accountability
 
+##  key point:
+Advice flows up.
+Decisions flow down.
+Accountability stays at the top.
+
+  
+
 
