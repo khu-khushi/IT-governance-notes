@@ -67,3 +67,41 @@ Day 3 (1-jan-25): why IT Governance exist??
 - Protection against risks such as data breaches, system downtime, and legal penalties.
 
 
+
+
+  Day 4 (2-jan-25) : Stakeholders
+
+## IT Governance is not about coding or tools.
+It’s about who makes decisions and who is responsible.
+
+## Who are stakeholders?
+People who influence, decide, or are affected by IT decisions.
+
+## Main people involved:
+
+- Board of Directors:
+-> Top-level decision makers
+-> Decide why IT exists and what it should achieve
+-> Care about money, risk, and reputation
+
+- CIO / CTO:
+-> Bridge between business and technology
+-> Decide how technology will support business goals
+-> Plan long-term IT strategy
+
+- IT Managers:
+-> Handle day-to-day IT work
+-> Make sure policies are actually followed
+-> Manage teams, systems, and deadlines
+
+- Risk Officers:
+-> Think in terms of “what can go wrong?”
+-> Handle security risks, data loss, legal issues
+-> Try to prevent disasters before they happen
+
+- Auditors:
+-> Check if rules and standards are being followed
+-> Ensure no shortcuts, no violations
+-> Provide accountability
+
+
