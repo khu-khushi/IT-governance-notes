@@ -109,6 +109,38 @@ Advice flows up.
 Decisions flow down.
 Accountability stays at the top.
 
+
+
+
+Day 5 (3-jan-26) : Intro to Frameworks 
+
+## Understand why frameworks exist, what each framework does, and how they are different.
+
+## What is a framework?
+- A framework is a structured set of guidelines, best practices, and rules.
+- It helps organizations manage IT properly, avoid confusion, and reduce risk.
+
+## frameworks used in IT:
+ 
+## COBIT (control objectives for information and related technology):
+- It is used for Governance and control.
+- It falls on management level.
+- Ensures accountability, risk management and compliance.
+- "COBIT decides whether IT is doing the right things.
+
+## ITIL (Information technology Infrastructure library):
+- Used for service management.
+- Typically based on operational level.
+- It helps in delivering IT services , supporting users and improving service quality.
+- ITIL helps IT team to do things the right way.
+
+## ISO 27001 (international standard for information security managemnt system):
+- Used for security standard.
+- Focuses on Security and Compliance.
+- Protects Data, Systems, and Sensitive Information.
+- Based on CIA : Confidentiality, Integrity, Availability.
+- ISO 27001 protects information from threats.
+
   
 
 
