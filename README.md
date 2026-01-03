@@ -49,7 +49,7 @@ IT governance defines direction and control, while IT management ensures executi
 
 
 
-Day 3 (1-jan-25): why IT Governance exist??
+Day 3 (1-jan-26): why IT Governance exist??
 
 ## Learn the problems first, then the framework.
 - IT Governance exists to address the problems that arise due to the absence of proper control and direction over IT systems.
@@ -69,7 +69,7 @@ Day 3 (1-jan-25): why IT Governance exist??
 
 
 
-  Day 4 (2-jan-25) : Stakeholders
+  Day 4 (2-jan-26) : Stakeholders
 
 ## IT Governance is not about coding or tools.
 It’s about who makes decisions and who is responsible.
