@@ -1,7 +1,7 @@
 # IT-governance-notes #
 notes 
 
-DAY 1 (30-dec-25) : what IT Governance actually is ?
+## DAY 1 (30-dec-25) : what IT Governance actually is ?
 
 ## what is IT Governance??
  - IT governance is a framework of policies, processes, and structures that guide how an organization manages and uses its IT resources to meet business objectives. It ensures that technology decisions align with overall strategy, minimize risks, and maximize value.
@@ -29,7 +29,7 @@ DAY 1 (30-dec-25) : what IT Governance actually is ?
 
 
 
-Day 2 (31-dec-25) : IT Governance vs IT Management.
+## Day 2 (31-dec-25) : IT Governance vs IT Management.
 
 ## IT Governance
 - Handles the framework of processes, policies, and structures.
@@ -49,7 +49,7 @@ IT governance defines direction and control, while IT management ensures executi
 
 
 
-Day 3 (1-jan-26): why IT Governance exist??
+## Day 3 (1-jan-26): why IT Governance exist??
 
 ## Learn the problems first, then the framework.
 - IT Governance exists to address the problems that arise due to the absence of proper control and direction over IT systems.
@@ -69,7 +69,7 @@ Day 3 (1-jan-26): why IT Governance exist??
 
 
 
-  Day 4 (2-jan-26) : Stakeholders
+## Day 4 (2-jan-26) : Stakeholders
 
 ## IT Governance is not about coding or tools.
 It’s about who makes decisions and who is responsible.
@@ -112,7 +112,7 @@ Accountability stays at the top.
 
 
 
-Day 5 (3-jan-26) : Intro to Frameworks 
+## Day 5 (3-jan-26) : Intro to Frameworks 
 
 ## Understand why frameworks exist, what each framework does, and how they are different.
 
@@ -140,6 +140,55 @@ Day 5 (3-jan-26) : Intro to Frameworks
 - Protects Data, Systems, and Sensitive Information.
 - Based on CIA : Confidentiality, Integrity, Availability.
 - ISO 27001 protects information from threats.
+
+
+
+
+## Day 6 (4-jan-26) : COBIT
+
+## COBIT = Control Objectives for Information and Related Technologies.
+
+## What is COBIT?
+COBIT is an IT governance and management framework that helps organizations:
+- Ensure IT supports business goals.
+- Manage risk.
+- Optimize resources.
+- Measure IT performance.
+
+## COBIT Domains:
+COBIT organizes IT activities into domains (also called governance & management areas).
+
+## 1. EDM – Evaluate, Direct and Monitor.
+- Responsibility of Board / Top Management.
+- Focuses on: Governance, Strategic direction, Monitoring performance.
+- mainly focuses : "Are we doing the right things with IT?"
+
+## 2. APO - Align, Plan, Organize.
+- focuses: planning and startegy.
+- covers: IT strategy, risk and resource management.
+- mainly focuses : "how should IT be planned and structured?"
+
+## 3. BAI - Build, Acquire, Implement.
+- focuses: development and implementation.
+- covers: system development, chnages, project management.
+- mainly focuses : "how do we build or acquire IT solutions?"
+
+## 4. DSS - Delivers, Service, Support.
+- focuses: daily operations.
+- covers: service delivery, incident management, security operations.
+- mainly focuses : "how does IT run day-to-day?"
+
+## 5. MEA - Monitor, Evaluate, Assess.
+- focuses: performance and compliance.
+- covers: audits, performance manageement, regulatory compliances.
+- mainly focuses : "are we meeting goals and complying with rules?"
+
+## key point:
+Domain -> Processes -> Control
+
+## to remember,
+EDM -> APO -> BAI -> DSS -> MEA
+decide -> plan -> build -> run -> check 
 
   
 
