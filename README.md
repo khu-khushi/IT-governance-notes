@@ -187,8 +187,9 @@ COBIT organizes IT activities into domains (also called governance & management 
 Domain -> Processes -> Control
 
 ## to remember,
-EDM -> APO -> BAI -> DSS -> MEA
+EDM    -> APO  -> BAI   -> DSS -> MEA
 decide -> plan -> build -> run -> check 
+
 
   
 
